@@ -64,8 +64,6 @@ footer {
 	background-color: #000032;
 	background-image: url("sunset.jpg");
 	color: white;
-	flex-shrink: 0;
-	flex-basis: 100%;
 	grid-area: header;
 }
 
